@@ -8,11 +8,8 @@
     <title>@yield('title')</title>
 </head>
 <body>
-    <header>
-        <h1>Live Whiteboard</h1>
-    </header>
+    @include('partials.header')
     <main>
-    @include('partials.navbar')
     @yield('content')
     </main>
     @include('partials.footer')

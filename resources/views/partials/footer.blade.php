@@ -1,3 +1,3 @@
 <footer>
-    hola soy el footer
+    David Sánchez Peris
 </footer>
